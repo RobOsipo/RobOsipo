@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, My name is Robert 👨‍💻
+- I'm a ==Full-Stack JavaScript/Node.js Developer== 
+- Currently taking a large focus on using ==React.js== on the client-side 
+- Experience building authenticated ==REST and GraphQL APIs==
+- Proficient with both ==SQL and NoSQL databases==
+
+***Personal Projects Page***
 
 <!--
 **RobOsipo/RobOsipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
