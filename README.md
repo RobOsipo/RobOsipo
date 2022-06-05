@@ -1,6 +1,6 @@
 ## Hi there, My name is Robert :wave:
 - I'm a **Full-Stack JavaScript/Node.js Developer**
-- Currently taking a large focus using **React.js** on the client-side 
+- Currently taking a large focus using **React & Next.js** on the client-side 
 - Experience building authenticated **REST and GraphQL APIs**
 - Proficient with both **SQL and NoSQL databases**
 
